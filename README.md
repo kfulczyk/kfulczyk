@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on to-do list app
+- 🌱 I’m currently learning about IT industry and python
 <!--
 **kfulczyk/kfulczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
